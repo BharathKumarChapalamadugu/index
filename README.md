@@ -1,2 +1,2 @@
 # index
-Hello My World!
+Hello
